@@ -1,13 +1,4 @@
 
-SQL*Plus: Release 11.2.0.2.0 Production on Thu Dec 1 17:48:23 2022
-
-Copyright (c) 1982, 2014, Oracle.  All rights reserved.
-
-SQL> connect
-Enter user-name: system
-Enter password:
-Connected.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #Table1 Creation
 
 SQL> create table studentss(sid number,sname varchar2(30),branch varchar2(10),year number,sec varchar2(3),tenth number,inter number,btech number,phno number,emailid varchar2(30),selected varchar2(5));
